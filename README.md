@@ -1,6 +1,8 @@
 # USDA-Covid19-SNAP-Scraping
 Scrapes state-by-state waiver data from USDA's Food and Nutrition website for SNAP, WIC, USDA Food Programs, and Child Nutrition. By default, the script scrapes the SNAP waivers. Documentation details how to download other waivers. 
 
+Cite as: Tettamanti, N. (2020). USDA COVID-19 SNAP Scraping Tool. www.covidsnap.org. 
+
 Installation: Download the r script, open/run in RStudio. 
 
 Usage: Change line 29 to download different waivers: Change 1 to: 2 for Child Nutrition, 3 for USDA Food Programs, and 4 for WIC. The excel file will be output in the same directory as the script in a file called "FNS_Web_Scrape.xlsx" and will need to be verified and cleaned. 
