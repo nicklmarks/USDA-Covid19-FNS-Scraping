@@ -3,11 +3,11 @@ Scrapes state-by-state waiver data from USDA's Food and Nutrition website for SN
 
 Installation: Download the r script, open/run in RStudio. 
 
-Usage: Change line 29 to download different waivers: Change [1] to: [2] for Child Nutrition, [3] for USDA Food Programs, and [4] for WIC. The excel file will be output in the same directory as the script in a file called "FNS_Web_Scrape.xlsx" and will need to be verified and cleaned. 
+Usage: Change line 29 to download different waivers: Change 1 to: 2 for Child Nutrition, 3 for USDA Food Programs, and 4 for WIC. The excel file will be output in the same directory as the script in a file called "FNS_Web_Scrape.xlsx" and will need to be verified and cleaned. 
 
 Contributing: Email contact@covidsnap.org or message me on GitHub to help contribute to our projects. 
 
-Twitter: @Tettamanti_Nicky 
+Twitter: [TettamantiNicky](https://twitter.com/TettamantiNicky)
 
 MIT License
 
