@@ -1,5 +1,5 @@
 # USDA COVID-19 SNAP Scraping Tool
-# Cite as: Tettamanti, N. (2020). USDA COVID-19 SNAP Scraping Tool. www.covidsnap.org. 
+# Cite as: Tettamanti, N. (2020). USDA COVID-19 FNS Scraping Tool. www.covidsnap.org. 
 
 # This script will scrape tables from the Food and Nutrition COVID-19 response website, and 
 # output an excel file with the columns: date, request name, status, and jurisdiction .
